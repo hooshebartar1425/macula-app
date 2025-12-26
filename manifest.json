@@ -1,6 +1,6 @@
 {
   "short_name": "MaculaCare",
-  "name": "?????? ?? ??? ??????",
+  "name": "خودمراقبتی بیماری ماکولا",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,10 +10,16 @@
     {
       "src": "logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/macula-app/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
